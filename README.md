@@ -14,3 +14,4 @@ The Wine Dataset is used for classification using Principle Component Analysis.
 
 ## Dataset Description
 I have considered the Wine Data Set from the UCI Machine Learning Repository. Here the wine is to be classified into three classes based on the chemical analysis which determines the origin of wines. The Data is multivariate, integer and real.
+![dataset](https://user-images.githubusercontent.com/58825386/122722309-2b16c180-d28f-11eb-81aa-3b7715c1f4ab.png)
